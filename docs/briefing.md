@@ -34,11 +34,13 @@ Its structured, hierarchical summaries help lower the barrier for understanding 
 |--------|-------------|
 | **Condensed logic** | Key mechanisms like state handler activation are simplified into broad descriptions, reducing precision for implementation understanding. |
 | **Tone adaptation limitation** | While NotebookLM faithfully reflects source phrasing, it lacks awareness of tone appropriateness. For example, “drive revenue growth” reflects a sales-oriented objective from the original text. However, academic summarisation should aim for generalisable and instructional tone. A tone-shifting capability — to adjust between promotional and academic registers — would better align the output with educational goals. |
-| **Limited interactivity** | The static briefing lacks on-demand depth — follow-up prompts are needed to expand on technical subcomponents. |
-
-
+| **Limited interactivity** | The static briefing lacks on-demand depth — follow-up prompts are needed to expand on technical subcomponents. 
 ---
 
 ### ✅ Conclusion
 
 NotebookLM’s briefing feature performs well in extracting essential information from academic PDFs and shaping it into structured, accessible content. While accurate, the summaries occasionally lean toward generalisation and may skip fine-grained architectural or logic distinctions important in technical domains. It is ideal for high-level understanding, but deeper academic use (e.g., assessment prep) should pair this with guided prompts or manual verification.
+
+### 📸 Screenshots
+📂 [Click here to view full screenshots](https://github.com/Diinmel/BUS5001_21964848_A3/tree/main/screenshots/handler.png)
+
