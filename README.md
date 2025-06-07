@@ -1,75 +1,72 @@
-# BUS5001_A3_2196484
-# 📘 BUS5001 – Q4: Evaluating NotebookLM as an Educational Assistant
+# 🤖 BUS5001 Assignment 3 – Evaluating NotebookLM as an Educational Assistant
 
-## 🎯 Objective
-This evaluation aims to explore the feasibility of integrating **NotebookLM**, Google's AI-powered educational assistant, into a university learning environment. We assess its capabilities using a real workshop PDF from BUS5001 and simulate a student study scenario.
+This repository documents the evaluation of **NotebookLM**, an AI-powered note-taking assistant by Google, for academic use in university settings. The analysis was conducted through a simulated student scenario in the context of the subject BUS5001 – Artificial Intelligence in Business.
 
 ---
 
-## a) 🔍 Key Functionalities for Academic Use
+## 🎯 Objectives
 
-| Feature                | Description                                                                 |
-|------------------------|-----------------------------------------------------------------------------|
-| 📄 Source-grounded Q&A | Ask questions based on uploaded PDFs with cited answers                     |
-| ✍️ Auto Summarisation  | Generate concise summaries of large documents                              |
-| 🧠 Mind Map            | Visualise concepts and hierarchy in a document                              |
-| 📚 Study Guide / FAQ   | Generate possible exam-style questions or clarifications                   |
-| 📅 Timeline Mode       | Track concepts or discussions chronologically                              |
-| 🔊 Audio Overview      | Create a voice summary for review or accessibility                         |
+- Assess NotebookLM’s capabilities aligned with core academic workflows
+- Simulate real-world student interaction with lecture content
+- Reflect critically on accuracy, usefulness, and limitations
+- Provide evidence-based insights and practical recommendations
 
 ---
 
-## b) 🎓 Academic Scenario: Preparing for a BUS5001 Workshop
+## 🧪 Academic Scenario
 
-### 📥 Uploaded Source:
-- `BUS5001-Workshop-Wk10-DialogFlowCX.pdf`
-
-### 🔍 Questions Asked:
-> Q: What is Dialogflow CX used for?  
-> Q: What are entity types in Dialogflow?  
-> Q: What are the core differences between flows and intents?
-
-### 📸 Screenshots:
-- ![chat](screenshots/Overview.png)
-
-### 🧠 Features Used:
-- **Mind Map** to visualise flow → entity → intent structure
-- **FAQ Generator** to simulate student revision
-- **Citation-supported Q&A** helped verify content accuracy
+**Use case:** A student preparing for BUS5001 Assignment 3 on Dialogflow CX uploads the workshop handout into NotebookLM.  
+They explore all 5 key features of the assistant to revise, extract key insights, and structure their understanding before submitting the assignment.
 
 ---
 
-## c) 🧪 Evaluation of AI Capabilities
+## 🧩 Feature-Based Evaluation
 
-| Feature         | Accuracy & Relevance | Usefulness in Study | Limitations / Risk |
-|----------------|-----------------------|----------------------|---------------------|
-| Q&A w/ Citation| ⭐⭐⭐⭐ (contextual, grounded) | Fast revision, deep query | May skip implicit ideas |
-| Summary        | ⭐⭐⭐                  | Helps overview        | Can omit details    |
-| FAQ Generator  | ⭐⭐⭐⭐                 | Useful for exam prep  | Sometimes too vague |
-| Mind Map       | ⭐⭐⭐⭐                 | Visual learner-friendly| Can't edit freely   |
-| Audio Overview | ⭐⭐                   | Good for accessibility| Generic language    |
+Each feature was tested and analysed using the uploaded workshop PDF. Details and reflections for each capability are documented below:
 
-### ⚠️ Bias & Hallucination:
-- All answers are grounded in uploaded docs → low hallucination risk.
-- Some summaries were generic when PDF formatting was inconsistent.
+| Feature             | Summary |
+|---------------------|---------|
+| 📄 [Briefing Doc](docs/briefing.md)        | Auto-generates a structured summary of core content |
+| 🧠 [Study Guide](docs/study_guide.md)      | Produces question-style prompts to aid revision |
+| 🗺️ [Mind Map](docs/mindmap.md)            | Visualises concepts and hierarchies from source material |
+| ❓ [FAQ](docs/faq.md)                      | Extracts short clarifications and explanations |
+| 💬 [Chat Interface](docs/chat.md)         | Enables contextual Q&A and deeper understanding |
 
 ---
 
-## ✅ Recommendation
+## 📸 Screenshots
 
-NotebookLM is well-suited for:
-- Study recap and summary
-- Generating student-facing study aids
-- Fast document understanding (e.g., course outlines)
-
-### 🚀 Suggestion:
-Combine NotebookLM with LMS tools (e.g., Moodle) to enhance self-paced learning. Limit deployment to non-sensitive academic materials (no grades, PII).
+All screenshots and supporting files are available in the [`/screenshots`](https://github.com/Diinmel/BUS5001_21964848_A3/tree/main/screenshots) folder.
 
 ---
 
-## 📎 GitHub Repository
+## 🧠 Key Insights
 
-All screenshots and notes are logged here:  
-**🔗📂 [Screenshots folder](https://github.com/Diinmel/BUS5001_21964848_A3/tree/main/screenshots)
+- NotebookLM supports **scaffolded learning**, where students can engage with content through summarisation, exploration, and question-based review.
+- The **chat-based interface** allows for fast retrieval and deeper engagement with course material — especially valuable in technical subjects.
+- While hallucination risks are low with well-structured PDFs, ambiguous prompts may still lead to unsupported outputs.
+- Its strength lies in **augmenting academic workflows**, not replacing human instruction or verification.
 
+---
 
+## ⚠️ Concerns & Recommendations
+
+| Area               | Concern / Limitation | Recommendation |
+|--------------------|----------------------|----------------|
+| Hallucinations     | Occasionally fabricates detail if prompt is vague | Include citations for all outputs; verify facts |
+| Input format       | Only supports PDFs and text | Expand to slides, spreadsheets, and LMS exports |
+| Depth of reasoning | Some outputs overly generic | Combine with domain-specific prompts or use alongside LLM chat tools |
+
+---
+
+## 🔗 Repository Structure
+
+```bash
+📁 docs/                  # Feature-based evaluation notes
+    ├─ briefing.md
+    ├─ study_guide.md
+    ├─ mindmap.md
+    ├─ faq.md
+    └─ chat.md
+📁 screenshots/           # Experiment images
+📄 README.md              # Overview & reflection
