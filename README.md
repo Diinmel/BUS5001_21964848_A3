@@ -71,5 +71,6 @@ Combine NotebookLM with LMS tools (e.g., Moodle) to enhance self-paced learning.
 ## 📎 GitHub Repository
 
 All screenshots and notes are logged here:  
-**🔗[View all screenshots](https://github.com/Diinmel/BUS5001_A3_21964848/tree/main/screenshots)
+**🔗📂 [Screenshots folder](https://github.com/Diinmel/BUS5001_21964848_A3/tree/main/screenshots)
+
 
