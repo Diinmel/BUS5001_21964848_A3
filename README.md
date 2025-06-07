@@ -31,7 +31,6 @@ This evaluation aims to explore the feasibility of integrating **NotebookLM**, G
 
 ### 📸 Screenshots:
 - ![chat](screenshots/Overview.png)
-- ![overview](screenshots/audio-overview.png)
 
 ### 🧠 Features Used:
 - **Mind Map** to visualise flow → entity → intent structure
