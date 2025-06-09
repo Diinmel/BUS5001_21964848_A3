@@ -33,7 +33,8 @@ Each feature was tested and analysed using the uploaded workshop PDF. Details an
 | 💬 [Chat Interface](docs/chat.md)         | Enables contextual Q&A and deeper understanding |
 
 ---
-
+## 📘 For role-specific impact and suggestions, see [Role-Based Reflections](docs/role_analysis.md)
+---
 ## 📸 Screenshots
 
 All screenshots and supporting files are available in the [`/screenshots`](https://github.com/Diinmel/BUS5001_21964848_A3/tree/main/screenshots) folder.
