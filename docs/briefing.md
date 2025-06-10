@@ -38,8 +38,9 @@ Its structured, hierarchical summaries help lower the barrier for understanding 
 ---
 
 ### ✅ Conclusion
-
 NotebookLM’s briefing feature performs well in extracting essential information from academic PDFs and shaping it into structured, accessible content. While accurate, the summaries occasionally lean toward generalisation and may skip fine-grained architectural or logic distinctions important in technical domains. It is ideal for high-level understanding, but deeper academic use (e.g., assessment prep) should pair this with guided prompts or manual verification.
+📌 In our scenario:
+A student working on BUS5001 Assignment 3 used the Briefing feature to quickly understand the architecture and flow logic of Dialogflow CX without needing to parse every section of the workshop PDF. This helped them form a clear and solid model of agent design before diving into practical bot construction in Dialogflow CX.
 
 ### 📸 Screenshots
 📂 [Click here to view full screenshots](https://github.com/Diinmel/BUS5001_21964848_A3/tree/main/screenshots)
