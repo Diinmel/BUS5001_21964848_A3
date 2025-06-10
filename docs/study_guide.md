@@ -37,6 +37,11 @@ However, students relying solely on this guide without referencing the workshop 
 
 NotebookLM’s Study Guide feature is ideal for generating first-round revision tools. However, for academic alignment, it should support **prompt refinements by Bloom’s level**, allow **automatic generation of applied questions**, and ideally include **conceptual mapping between terms**.
 
+
+### 📌 In Our Scenario
+
+The student used the Study Guide to prepare for BUS5001 Assignment 3 by reviewing key terms related to Dialogflow CX, such as “State Handler,” “Intent,” and “Form.” This helped reinforce baseline understanding. However, due to the lack of applied or analytical questions, the student had to cross-reference the workshop PDF to fully grasp how the components interact during chatbot flow design. This means the Study Guide is good for helping students taking note the key terms, but it should be used together with the original workshop materials to fully understand how things work in the assignment.
+
 ### 📸 Screenshot
 
 📂 [View full screenshots](https://github.com/Diinmel/BUS5001_21964848_A3/tree/main/screenshots)  
