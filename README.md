@@ -41,12 +41,13 @@ All screenshots and supporting files are available in the [`/screenshots`](https
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 
-- NotebookLM supports **scaffolded learning**, where students can engage with content through summarisation, exploration, and question-based review.
-- The **chat-based interface** allows for fast retrieval and deeper engagement with course material — especially valuable in technical subjects.
-- While hallucination risks are low with well-structured PDFs, ambiguous prompts may still lead to unsupported outputs.
-- Its strength lies in **augmenting academic workflows**, not replacing human instruction or verification.
+- NotebookLM effectively supports core academic workflows by enabling students to review, summarise, and question lecture content in structured ways. This aligns with the objective of evaluating its suitability for supporting coursework and self-directed learning.
+- The chat interface improves access to information and promotes deeper engagement with material—especially useful in technical topics where fast clarification can enhance learning confidence.
+- The tool performs reliably with well-structured documents (e.g., lecture slides or PDFs), but accuracy may include vague prompts or fragmented content.
+- While NotebookLM excels at content summarisation and clarification, it does not replace human instruction or validation. Its greatest strength lies in augmenting learning—not automating academic judgment.
+- All findings and reflections are logged in this repository through feature-specific documentation and screenshots, supporting the project's goal to provide evidence-based evaluation and practical recommendations.
 
 ---
 
