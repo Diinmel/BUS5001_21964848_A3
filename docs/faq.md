@@ -50,9 +50,12 @@ The FAQ feature excels as a **foundational concept retrieval tool**, especially 
 - Encourage prompt tuning by **cognitive level** (e.g., analysis, application).
 - Support **relationship mapping** between terms (e.g., page ↔ flow ↔ handler).
 - Strip marketing phrasing and maintain an **instructional tone** aligned with university standards.
+---
+### 📌 In our scenario:
+
+The student preparing for BUS5001 Assignment 3 used the FAQ feature to quickly extract definitions and clarify unfamiliar concepts such as "webhook," "intent," or "fulfillment" when creating a Dialogflow CX chatbot. Although the answers were concise and aligned with the workshop, the lack of applied context required the student to follow up with manual searches or Chat prompts to fully understand how these concepts behaved in real bot configurations. However, it was still a valuable tool, providing clear and concise explanations of technical terminology used in the chatbot design for the assignment.
 
 ---
-
 ### 📸 Screenshot
 
 📂 [View full screenshots](https://github.com/Diinmel/BUS5001_21964848_A3/tree/main/screenshots) 
