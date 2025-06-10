@@ -24,6 +24,17 @@ NotebookLM was tested across 5 key features using BUS5001 materials. This sectio
 - **Limitation**: Study Guide only scratches Bloom’s “Remember” layer  
   **💡 Suggestion**: Let students select cognitive level (“Apply”, “Evaluate”, “Create”) – as supported in Claude or ChatGPT
 
+### 🎯 Application to Assignment Scenario
+
+In the context of BUS5001 Assignment 3, the student used NotebookLM to prepare for the design and analysis of a chatbot using Dialogflow CX. Each feature of the tool aligned with a specific academic task:
+**Briefing Doc** was used to quickly extract a structured summary of the workshop material, helping the student understand agent components without re-reading the full tutorial.
+**Study Guide** served as a first-round revision tool, especially when revisiting concepts like "fulfillment" and "intents" during assignment documentation.
+**Mind Map** provided an early-stage overview to visually separate confusing terms (e.g., Pages vs. Forms), which helped in sketching the chatbot flow before working in Dialogflow CX.
+**Chat Interface** was leveraged to clarify dependencies (e.g., How do forms relate to parameters and state transitions?) and explore platform logic in preparation for the demo.
+**FAQ** was referenced while writing technical definitions in the report and video narration script.
+Despite these strengths, some limitations required the cross-checking or cross-referencing the workshop PDF for more precise details.
+This confirms that NotebookLM can serve as a preparation and support tool for practical deliverables, but still relies on the student’s initiative to structure prompts and verify critical concepts.
+
 ---
 
 ## 👨‍🏫 Lecturer Perspective
