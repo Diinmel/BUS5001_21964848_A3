@@ -41,6 +41,12 @@ NotebookLM’s mind map shows strong potential for **cognitive scaffolding**, bu
 
 Instructors should combine the mind map with a written explanation to help students understand the full picture.
 
+
+### 📌 In our scenario:
+
+The student used the Mind Map feature during the early planning stage of BUS5001 Assignment 3 to understand how Dialogflow CX components are organized. It helped visually separate concepts like “Pages” and “Intents,” which were initially confusing in the lecture notes. However, since some nodes were too simple or lacked links, the student had to take extra notes to fully understand how elements like “Forms,” “Handlers,” and “Fulfillment” connect and work together.
+
+
 ### 📸 Screenshot
 
 📂 [View full screenshots](https://github.com/Diinmel/BUS5001_21964848_A3/tree/main/screenshots)  
