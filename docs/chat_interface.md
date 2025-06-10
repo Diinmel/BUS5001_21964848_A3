@@ -44,6 +44,9 @@ Suggested improvements:
 - Enable users to flag "**summarize into hierarchy**"
 - Support linking to glossary cards mid-conversation for low-level terms
 
+### 📌 In our scenario:
+While preparing for BUS5001 Assignment 3, the student used NotebookLM’s chat feature to clarify how various Dialogflow CX components relate to one another. This was particularly helpful in understanding how a user’s intent flows through parameters, forms, and webhooks—knowledge required to design a working chatbot e.g emergency-support bot. Rather than reading the entire workshop PDF sequentially, the student prompted the model with concept-based questions and used the responses to build a logical blueprint of their bot architecture.
+
 ### 📸 Screenshot
 
 📂 [View full screenshots](https://github.com/Diinmel/BUS5001_21964848_A3/tree/main/screenshots)  
