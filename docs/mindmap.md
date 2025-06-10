@@ -1,4 +1,4 @@
-## 🧠 Critical Analysis – Mind Map
+## 🧠 Critical Analysis - Mind Map
 
 ### i. Accuracy & Relevance of the AI-Generated Output
 
@@ -8,7 +8,7 @@ However, this level of detail is **not uniformly applied**. For instance:
 - “State Handlers” and “Fulfillment” remain collapsed as single nodes, despite their complexity.
 - Conceptual categories (e.g., “Key Concepts”, “Overview”) are mixed with **step-by-step procedures** (e.g., “Navigate to Console”, “Select Project”), reducing pedagogical clarity.
 
-The AI-generated title — “An Introduction and Simple Bot Build” — is fitting, but does not reflect that **the map includes both architecture and procedural setup**.
+The AI-generated title “An Introduction and Simple Bot Build” is fitting, but does not reflect that **the map includes both architecture and procedural setup**.
 
 ### ii. Usefulness in Academic Workflows
 
@@ -39,7 +39,7 @@ NotebookLM’s mind map shows strong potential for **cognitive scaffolding**, bu
 - Optional linking arrows or relationship tags (e.g., “depends on”)
 - User control over grouping (Conceptual vs Procedural branches)
 
-Until then, instructors should use the map **in tandem with a written briefing or annotated flow diagram** to avoid over-simplification.
+Instructors should combine the mind map with a written explanation to help students understand the full picture.
 
 ### 📸 Screenshot
 
